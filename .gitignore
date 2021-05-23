@@ -1,0 +1,10 @@
+env
+depreciated.py
+.vscode
+.VSCodeCounter
+__pycache__
+post_test
+*.jpeg
+VSCodeCounter
+application/model/*
+database
